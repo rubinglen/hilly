@@ -4,6 +4,7 @@ Hilly
 ======
 
 test
+second test
 
 Adapted from adamfranco/curvature by Glen Rubin to focus on steep roads instead of twisty ones, with North Carolina as a test region.
 
