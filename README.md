@@ -1,9 +1,11 @@
 ![Vermont Route 17](http://www2.adamfranco.com/curvature/images/Page_Mill_Rd.jpg)
 
-Curvature
-============
+Hilly
+======
 
-Find roads that are the most curved or twisty based on [Open Street Map](http://www.openstreetmap.org/) (OSM) data.
+Adapted from adamfranco/curvature by rubinglen to focus on steep roads instead of twisty ones, with North Carolina as a test region.
+
+Find roads that are the most sloped or hilly based on Open Street Map (OSM) data, with elevation from SRTM.
 
 The goal of this program is to help those who enjoy twisty roads (such as
 motorcycle or driving enthusiasts) to find promising roads that are not well known.
